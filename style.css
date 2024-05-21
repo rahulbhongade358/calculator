@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #bfdff8;
+    background-color: #cde6f8;
     font-family: sans-serif;
 }
 
@@ -36,14 +36,14 @@ p{
     color: rgb(70, 70, 70);
     text-align: right;
     border: none;
-    border-radius: 30px;
+    border-radius: 50px;
     width: 220px;
     display: block;
     margin: 0 auto;
-    
-    font-size: 50px;
+
+    font-size: 40px;
     padding: 5px 10px;
-    margin-bottom: 15px;
+    margin-bottom: 50px;
 }
 
 .btn {
